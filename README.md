@@ -147,4 +147,4 @@ jupyter notebook laptop_price_prediction.ipynb
 
 **Ibialabo Dappa**: Data Analyst | Data Scientist
 Email: ibialabodappa@gmail.com
-LinkedIn: _add link_ | GitHub: _add link_
+
