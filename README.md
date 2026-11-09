@@ -49,12 +49,12 @@ Key findings:
 - **Screen size:** a weak predictor of price on its own, with wide price spread at every size.
 - **Correlation with price:** RAM (0.74) and SSD (0.67) are the strongest numerical predictors, followed by screen width/height (about 0.55) and CPU speed (0.43).
 
-![Company distribution](images/figure_1.png)
-![Operating system vs price](images/figure_2.png)
-![Company vs price](images/figure_3.png)
-![Laptop type vs price](images/figure_4.png)
-![Price vs screen size](images/figure_5.png)
-![Correlation matrix](images/figure_6.png)
+![Company distribution](images/my_chart1.png)
+![Operating system vs price](images/my_chart2.png)
+![Company vs price](images/my_chart4.png)
+![Laptop type vs price](images/my_chart5.png)
+![Price vs screen size](images/my_chart6.png)
+![Correlation matrix](images/my_chart7.png)
 
 ## Methodology
 
